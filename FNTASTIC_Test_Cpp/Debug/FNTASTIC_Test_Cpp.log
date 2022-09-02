@@ -1,0 +1,4 @@
+﻿  FNTASTIC_Test_Cpp.cpp
+c:\users\bxeni\source\repos\fntastic_test_cpp\fntastic_test_cpp\fntastic_test_cpp.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\bxeni\source\repos\fntastic_test_cpp\fntastic_test_cpp\fntastic_test_cpp.cpp(46): warning C4018: '<': signed/unsigned mismatch
+  FNTASTIC_Test_Cpp.vcxproj -> C:\Users\bxeni\source\repos\FNTASTIC_Test_Cpp\Debug\FNTASTIC_Test_Cpp.exe
